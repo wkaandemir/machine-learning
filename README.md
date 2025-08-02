@@ -175,12 +175,3 @@ Kaggle Mental Health Dataset'i üzerinde yapılan SHAP analizi sonuçları:
 ## 📝 Lisans
 
 MIT License
-
-## 👥 Katkıda Bulunanlar
-
-- [Your Name]
-
-## 📞 İletişim
-
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername) 
